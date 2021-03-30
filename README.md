@@ -2,9 +2,9 @@
 
 Here you can find the list of all `xsl:attribute-set` names for [each XSL file](https://github.com/dita-ot/dita-ot/tree/develop/src/main/plugins/org.dita.pdf2/cfg/fo/attrs) in the PDF formatter of [DITA Open Toolkit](https://www.dita-ot.org).
 
-With the help of them, you can freely customise your PDF page look in a separate plug-in. To create this initial plug-in it's recommended to use [jelovirt's PDF generator](http://dita-generator.elovirta.com/) then [patch its result](https://github.com/jelovirt/pdf-generator/issues/18) a bit and you're good to go with further customisations.
+With the help of them, you can freely customise your PDF page look in a separate plug-in. To create this initial plug-in it's recommended to use [jelovirt's PDF generator](http://dita-generator.elovirta.com/) and you're good to go with further customisations.
 
-The current data is obtained from DITA-OT 3.4. You can find the extractor Perl script in this repository as well.
+The current data is obtained from DITA-OT 3.6. You can find the extractor Perl script in this repository as well.
 
 ## basic-settings
 
